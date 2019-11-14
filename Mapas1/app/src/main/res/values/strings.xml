@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mapas1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_satelite">Satelite</string>
+    <string name="btn_centrar">Centrar</string>
+    <string name="btn_animar">Animar</string>
+    <string name="btn_pos">Posicion</string>
+</resources>
